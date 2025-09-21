@@ -1,0 +1,7 @@
+{
+  "name": "LexaGuide",
+  "description": "An interactive AI legal assistant that simplifies complex documents. Paste any legal text to get a clear summary, a breakdown of key clauses, and ask follow-up questions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
